@@ -1,12 +1,31 @@
 # CodTech-Task2
 NAME: SARTHAK SUNDRIYAL
+
 COMPANY: CODTECH IT SOLUTIONS
+
 ID: CT08DS285
+
+
 DOMAIN: BACKEND WEB DEVELOPMENT
+
+
 DURATION: DECEMBER 5th, 2024 to JANUARY 5th, 2025
+
+
 MENTOR: Muzammil Ahmed
 
-Overview of this project:
+
+
+
+
+
+
+
+
+
+
+
+**Overview of this project:**
 
 Project Name:
 Secure User Authentication System
