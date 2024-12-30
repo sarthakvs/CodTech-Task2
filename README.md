@@ -89,3 +89,19 @@ Knowledge of handling protected routes and user account management.
 
 
 Output:
+1. POST: Register a new user -
+   ![image](https://github.com/user-attachments/assets/fe8f6369-20d4-476a-ae78-6c7cf9593b86)
+2. POST: Login a user -
+  ![image](https://github.com/user-attachments/assets/a144262f-fc9b-4433-a465-ba55ad2f6b86)
+3. GET: Protected route -
+   ![image](https://github.com/user-attachments/assets/76550fcc-18c0-47f1-b7c1-739f6aa3e267)
+4. PUT: Update user password -
+   ![image](https://github.com/user-attachments/assets/f282ae40-399d-48d8-98de-650b0e0f1af0)
+5. DELETE: Delete user account -
+   ![image](https://github.com/user-attachments/assets/b780e034-22b5-42d0-9fa3-278585370077)
+6. GET: Fetch user profile -
+   ![image](https://github.com/user-attachments/assets/19b8f51e-53b9-472a-9a93-f9d181599df0)
+
+
+
+
